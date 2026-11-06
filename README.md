@@ -1,6 +1,6 @@
 # JARVIS Demo — a free, multilingual, local-first chatbot & voice agent
 
-[![Website](https://img.shields.io/badge/Website-jarvis--demo-1e88e5)](https://alex-stark-industries.github.io/JARVIS-Demo/)
+[![Website](https://img.shields.io/badge/Website-jarvis--demo-1e88e5)](https://ale-studios.github.io/JARVIS-Demo/)
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-1e88e5?logo=github)](../../releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](../../releases/latest)
